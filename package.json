@@ -1,0 +1,26 @@
+{
+  "name": "agile-technical-practices-distilled-katas",
+  "version": "1.0.0",
+  "description": "Recommended katas from Agile Technical Practices Distilled",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcockbain/agile-technical-practices-distilled-katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcockbain/agile-technical-practices-distilled-katas/issues"
+  },
+  "homepage": "https://github.com/jcockbain/agile-technical-practices-distilled-katas#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "jest": "^26.4.1"
+  }
+}
