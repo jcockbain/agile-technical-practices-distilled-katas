@@ -15,3 +15,4 @@ Written using TDD in a simple JavaScript environment, with Jest as the testing f
 ### Chapter 3 - Classic TDD 2
 
 - [statsCalculator](src/statsCalculator.js)
+- [generateAnagrams](src/generateAnagrams.js)
