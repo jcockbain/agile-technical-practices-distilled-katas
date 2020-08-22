@@ -11,3 +11,7 @@ Using a simple JavaScript setup, with Jest.
 - [fizzBuzz](src/fizzBuzz.js)
 - [isLeapYear](src/leapYear.js)
 - [fibonacci](src/fibonacci.js)
+
+### Chapter 2
+
+- [statsCalculator](src/statsCalculator.js)
