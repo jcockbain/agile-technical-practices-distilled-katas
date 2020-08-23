@@ -16,3 +16,7 @@ Written using TDD in a simple JavaScript environment, with Jest as the testing f
 
 - [statsCalculator](src/statsCalculator.js)
 - [generateAnagrams](src/generateAnagrams.js)
+
+### Chapter 4 - Classic TDD 3
+
+- [RomanNumerals](src/romanNumerals.js)
